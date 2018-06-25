@@ -1,0 +1,23 @@
+{
+  "name": "address-bloc",
+  "version": "1.0.0",
+  "description": "An application to model an address book in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adahutchings/AddressBloc.git"
+  },
+  "keywords": [
+    "addressbloc",
+    "node"
+  ],
+  "author": "Ada Hutchings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adahutchings/AddressBloc/issues"
+  },
+  "homepage": "https://github.com/adahutchings/AddressBloc#readme"
+}
